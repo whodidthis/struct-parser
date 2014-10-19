@@ -1,0 +1,9 @@
+[package]
+
+name = "structparser"
+version = "0.0.1"
+authors = ["whodidthis <tonihe@gmail.com>"]
+
+[dependencies.iron]
+
+git = "https://github.com/iron/iron.git"
